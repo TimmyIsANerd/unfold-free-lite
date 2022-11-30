@@ -743,8 +743,7 @@ p {
 .header-social {
   position: absolute;
   bottom: 30px;
-  left: 15px;
-  width: 100%; }
+  left: 15px; }
   .header-social .header-social-icon {
     position: relative; }
     .header-social .header-social-icon::before {
